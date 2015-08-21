@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'athome2/lp'
+
   get 'athome2/login'
 
   get 'athome2/stafflist'
